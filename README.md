@@ -12,3 +12,10 @@ to predict individuals that are most likely to be the potential customer of the 
 
 Finally, I participated in a Kaggle competition to evaluate the supervised learning model I created with evaluation metric of AUC for the ROC curve, 
 where he ROC curve is created by plotting the true positive rate (TPR) against the false positive rate (FPR) at various threshold settings.
+
+# Installation
+
+The code should run with no issues using Python versions 3.*.
+No extra besides the built-in libraries from Anaconda needed to run this project
+Data Processing & Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+Data Visualization: Matplotlib, Seaborn
