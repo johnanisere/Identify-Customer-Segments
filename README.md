@@ -15,7 +15,7 @@ where he ROC curve is created by plotting the true positive rate (TPR) against
 
 # Installation
 
-The code should run with no issues using Python versions 3.*.
-No extra besides the built-in libraries from Anaconda needed to run this project
-Data Processing & Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-Data Visualization: Matplotlib, Seaborn
+- The code should run with no issues using Python versions 3.*.
+- No extra besides the built-in libraries from Anaconda needed to run this project
+- Data Processing & Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+- Data Visualization: Matplotlib, Seaborn
